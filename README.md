@@ -1,4 +1,4 @@
-file:///home/royer/Descargas/Banner%20Para%20Linkedin%20Recursos%20Humanos%20Fotogr%C3%A1fico%20Gris%20Claro.jpg
+![Banner](https://drive.google.com/file/d/1uBkA_E-KdzBr6T7c7QgaWJsP0DD2Q4fb/view?usp=sharing)
 
 
 # 💫 About Me:
