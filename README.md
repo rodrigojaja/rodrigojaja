@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/file/d/1uBkA_E-KdzBr6T7c7QgaWJsP0DD2Q4fb/view?usp=sharing)
+![Banner](nono)
 
 
 # 💫 About Me:
