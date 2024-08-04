@@ -1,4 +1,4 @@
-![Banner](nono)
+![Banner]([nono](https://github.com/rodrigojaja/imagen/blob/main/nono))
 
 
 # 💫 About Me:
