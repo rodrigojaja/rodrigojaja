@@ -1,3 +1,6 @@
+file:///home/royer/Descargas/Banner%20Para%20Linkedin%20Recursos%20Humanos%20Fotogr%C3%A1fico%20Gris%20Claro.jpg
+
+
 # 💫 About Me:
 ¡Hola! Soy Rodrigo Misael Cano Mendoza, un joven programador y estudiante de Ingeniería en Computación en la UNAM. Mi pasión por la tecnología y la resolución de problemas me ha llevado a especializarme en el área de QA (Quality Assurance), donde busco asegurar que los productos de software sean impecables y funcionen a la perfección.<br><br>Mi formación académica en la UNAM me ha proporcionado una sólida base en ingeniería de software, y mi experiencia práctica en QA me ha permitido desarrollar habilidades clave en pruebas, automatización y control de calidad. Estoy constantemente buscando nuevas oportunidades para aprender, crecer y aplicar mis conocimientos en proyectos desafiantes.<br><br>Mi objetivo es contribuir a la creación de software de alta calidad y desempeñar un papel clave en el éxito de los proyectos en los que participo. Si estás buscando un profesional motivado, con una sólida ética de trabajo y una gran pasión por la tecnología, no dudes en ponerte en contacto conmigo. Estoy ansioso por colaborar y seguir aprendiendo en un entorno dinámico y en constante evolución.<br><br>¡Vamos a construir algo increíble juntos!<br><br>Rodrigo Misael Cano Mendoza
 
